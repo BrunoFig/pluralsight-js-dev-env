@@ -22,3 +22,5 @@ JavaScript Development Environment from the [Pluralsight course with Cory House]
   * API Schema: [JSON Schema Faker](https://json-schema-faker.js.org/)
   * Generate Data: [Faker.js](https://github.com/marak/Faker.js/), [Chance](https://chancejs.com/) & [Randexp.js](https://github.com/fent/randexp.js)
   * Serve API: [JSON Server](https://github.com/typicode/json-server)
+* Error Logging: [TrackJS](https://trackjs.com/)
+* Template Engine: [EJS](https://ejs.co/)
